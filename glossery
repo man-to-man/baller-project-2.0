@@ -1,0 +1,27 @@
+Age -- ww avg.Age=21
+Totals
+G -- Games
+MP -- Minutes Played
+FG -- Field Goals
+FGA -- Field Goal Attempts
+3P -- 3-Point Field Goals
+3PA -- 3-Point Field Goal Attempts
+FT -- Free Throws
+FTA -- Free Throw Attempts
+ORB -- Offensive Rebounds
+TRB -- Total Rebounds
+AST -- Assists
+STL -- Steals
+BLK -- Blocks
+TOV -- Turnovers
+PF -- Personal Fouls
+PTS -- Points
+FG% -- Field Goal Percentage
+3P% -- 3-Point Field Goal Percentage
+FT% -- Free Throw Percentage
+
+Per Game
+MP -- Minutes Played Per Game
+PTS -- Points Per Game
+TRB -- Total Rebounds Per Game
+AST -- Assists Per Game
