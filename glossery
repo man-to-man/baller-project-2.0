@@ -3,25 +3,25 @@ Totals:
 G -- Games 'ww' avg.G=32
 MP -- Minutes Played 'ww' avg.MP=552
 FG -- Field Goals 'WW' avg.FG=79
-FGA -- Field Goal Attempts
-3P -- 3-Point Field Goals
-3PA -- 3-Point Field Goal Attempts
-FT -- Free Throws
-FTA -- Free Throw Attempts
-ORB -- Offensive Rebounds
-TRB -- Total Rebounds
-AST -- Assists
-STL -- Steals
-BLK -- Blocks
-TOV -- Turnovers
-PF -- Personal Fouls
-PTS -- Points
-FG% -- Field Goal Percentage
-3P% -- 3-Point Field Goal Percentage
-FT% -- Free Throw Percentage
+FGA -- Field Goal Attempts 'WW' avg.FGA=182
+3P -- 3-Point Field Goals 'ww' avg.3P=25
+3PA -- 3-Point Field Goal Attempts  'ww' avg.3PA=75
+FT -- Free Throws 'WW' avg.FT=29
+FTA -- Free Throw Attempts 'ww' avg.FTA=39
+ORB -- Offensive Rebounds 'ww' avg.ORB=20
+TRB -- Total Rebounds 'ww' avg.TRB=91
+AST -- Assists 'ww' avg.AST=49
+STL -- Steals 'ww' avg.STL=18
+BLK -- Blocks 'ww' avg.BLK=10
+TOV -- Turnovers 'ww' avg.TOV=28
+PF -- Personal Fouls 'ww' avg.PF=47
+PTS -- Points 'ww' avg.PTS=214
+FG% -- Field Goal Percentage 'ww' avg.
+3P% -- 3-Point Field Goal Percentage 'ww' avg.
+FT% -- Free Throw Percentage 'ww' avg.
 
 Per Game
-MP.pg -- Minutes Played Per Game
+MP.pg -- Minutes Played Per Game 
 PTS.pg -- Points Per Game
 TRB.pg -- Total Rebounds Per Game
 AST.pg -- Assists Per Game
